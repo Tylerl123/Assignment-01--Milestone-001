@@ -14,3 +14,19 @@
     color: green
     
 }
+
+
+ .custom_boarder {
+   
+   boarder-width: 5px;
+   boarder- solid;
+   boarder - blue;
+}
+
+
+.custom_size {
+  
+  width: 20%;
+  height : 400px;
+  
+}
