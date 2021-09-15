@@ -1,8 +1,6 @@
 <html>
 <head>
-</head>
 
-<body>
 
   h1{
     
@@ -24,7 +22,7 @@
    
    border-width: 5px;
    border- solid;
-   border - green;
+   border - blue;
 }
 
 
@@ -40,5 +38,7 @@
   font-weight: bold;
   
 }
+</head>
+<body>
 </body>
 </html>
