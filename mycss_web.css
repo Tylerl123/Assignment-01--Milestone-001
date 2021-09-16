@@ -35,10 +35,11 @@
  }
 .paragraph_background {
   padding: 15px;
-  width: 500px;
+  width: 100px;
   height: 100px;
   background-color:red;
   font-family: "Arial", sans-serif;
+  border-radius: 30px;
 }
 
 .custom_size {
