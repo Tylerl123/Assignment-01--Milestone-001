@@ -1,7 +1,7 @@
 @media rule {
   
   h1 {
-    background-color: purple;
+    background-color: lightred;
   }
   
   .myclassselector {
@@ -27,8 +27,8 @@
     background-color: lightblue;
   }
   
-  h1 {
-    background-color: purple;
+  h4 {
+    background-color: light red;
   }
 }
 
