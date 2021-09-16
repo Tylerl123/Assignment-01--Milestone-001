@@ -18,29 +18,22 @@
     
 }
 
- h5{
-    
- 
-    text-align: center
-    
-}
-
 
 
  h4.custom_border {
    
    border-width: 5px;
-   border: solid;
-   border : blue;
+   border-style: solid;
+   border-color : blue;
 }
 
 
   img{
-    border: solid;
-    border : blue;
+    border-style: solid;
+    border-color: blue;
  }
 .paragraph_background {
-  background_color:red;
+  background-color:red;
   font-family: "Arial", sans-serif;
 }
 
