@@ -11,7 +11,7 @@
 
 
 
- h4{
+ h3{
     
    
     text-align: center;
@@ -20,7 +20,7 @@
 
 
 
- h4.custom_border {
+ h3.custom_border {
    
    border-width: 5px;
    border-style: solid;
