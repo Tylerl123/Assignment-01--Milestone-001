@@ -1,13 +1,3 @@
-@media rule {
-  
-  h1 {
-    background-color: lightred;
-  }
-  
-  .myclassselector {
-    background-color: lightred;
-  }
-}
 
 @media print {
   
