@@ -9,16 +9,12 @@
     
 }
 
-
-
  h3{
     
    
     text-align: center;
     
 }
-
-
 
  .custom_border {
    
@@ -27,12 +23,12 @@
    border-color : blue;
 }
 
-
   img{
     border-style: solid;
     border-color: blue;
     border-radius: 50px;
  }
+
 .paragraph_background {
   padding: 15px;
   width: 1000px;
@@ -62,7 +58,7 @@ p.small{
 #font {
   
   font-weight: bold;
-  
+  color:navy;
 }
 
 a{
