@@ -73,4 +73,6 @@ div {
 ul li {
  margin: 20px;
 }
-
+ul.a {
+  list-style-type: circle;
+}
