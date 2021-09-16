@@ -9,12 +9,6 @@
   }
 }
 
-
-
-
-
-
-
 @media print {
   
   .screen_only {
@@ -28,7 +22,7 @@
   }
   
   h4 {
-    background-color: light red;
+    background-color: lightred;
   }
 }
 
