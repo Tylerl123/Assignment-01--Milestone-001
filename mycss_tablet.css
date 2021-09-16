@@ -1,4 +1,54 @@
+@media rule {
+  
+  h1 {
+    background-color: purple;
+  }
+  
+  .myclassselector {
+    background-color: lightblue;
+  }
+}
 
+
+
+
+
+
+
+@media print {
+  
+  .screen_only {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    background-color: purple;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+@media (min-width: 700px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+@media (max-width: 640px) {
+  .title {
+    background-color: lightblue;
+  }
+}
 
 
 
