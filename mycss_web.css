@@ -31,8 +31,12 @@
   img{
     border-style: solid;
     border-color: blue;
+    border-radius: 50px;
  }
 .paragraph_background {
+  padding: 15px;
+  width: 500px;
+  height: 100px;
   background-color:red;
   font-family: "Arial", sans-serif;
 }
@@ -51,7 +55,7 @@
 }
 
 a{
-  color:Lightgreen;
+  color:red;
 }
 
 
