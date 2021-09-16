@@ -5,14 +5,34 @@
   h1{
     
     background-color: red;
+    text-align: center;
+    
+}
+
+ h3{
+    
+    background-color: blue;
+    
+    
+}
+
+ h4{
+    
+    background-color: blue;
+    text-align: center;
+    
+}
+
+ h5{
+    
+    background-color: light red;
     text-align: center
     
 }
 
 
 
-
- .custom_border {
+ h4.custom_border {
    
    border-width: 5px;
    border: solid;
@@ -32,6 +52,8 @@
   font-weight: bold;
   
 }
+
+img 
 </head>
 <body>
 </body>
