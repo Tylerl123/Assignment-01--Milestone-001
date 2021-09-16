@@ -65,6 +65,11 @@ a{
   color:red;
 }
 
+div {
+  margin: auto;
+  width: 100px
+}
+
 </style>
 </head>
 <body>
