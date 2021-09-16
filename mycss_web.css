@@ -4,28 +4,23 @@
 
   h1{
     
-    background-color: red;
+   
     text-align: center;
     
 }
 
- h3{
-    
-    background-color: blue;
-    
-    
-}
+
 
  h4{
     
-    background-color: blue;
+   
     text-align: center;
     
 }
 
  h5{
     
-    background-color: light red;
+ 
     text-align: center
     
 }
@@ -40,6 +35,15 @@
 }
 
 
+  img{
+    border: solid;
+    border : blue;
+ }
+.paragraph_background {
+  background_color:red;
+  font-family: "Arial", sans-serif;
+}
+
 .custom_size {
   
   width: 20%;
@@ -53,7 +57,11 @@
   
 }
 
-img 
+a{
+  color:Lightgreen;
+}
+
+
 </head>
 <body>
 </body>
