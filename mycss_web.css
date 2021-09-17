@@ -34,20 +34,22 @@
   width: 1000px;
   height: 150px;
   background-color:lightgreen;
-  font-family: "Arial", sans-serif;
-  border-radius: 30px;
+  
 }
 
-.small>p{
+.small{
   padding: 15px;
   width: 1000px;
   height: 60px;
   background-color:lightgreen;
-  font-family: "Arial", sans-serif;
-  border-radius: 30px;
   
 }
 
+ p{
+  font-family: "Arial", sans-serif;
+  border-radius: 30px;
+}
+  
 #font {
   
   font-weight: bold;
