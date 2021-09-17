@@ -80,10 +80,12 @@ ul.a {
 
 input {
  background-color: lightblue;
+ color:blue;
 }
 
  table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
+  border-style: solid;
+  border-color: navy;
+  
 }
 
