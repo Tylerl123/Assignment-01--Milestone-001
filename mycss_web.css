@@ -73,6 +73,17 @@ div {
 ul li {
  margin: 20px;
 }
+
 ul.a {
   list-style-type: circle;
 }
+
+input {
+ background-color: lightblue;
+}
+
+ table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
