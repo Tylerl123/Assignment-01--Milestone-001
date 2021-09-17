@@ -12,7 +12,7 @@
   }
   
   h3 {
-    background-color: lightred;
+    background-color: red;
   }
 }
 
@@ -24,7 +24,7 @@
 
 @media (min-width: 700px) {
   body {
-    background-color: white;
+    background-color: lightblue;
   }
 }
 
