@@ -48,10 +48,6 @@
   
 }
 
-.text_color{
-  color:darkgreen;
-}
-
 #font {
   
   font-weight: bold;
@@ -69,6 +65,7 @@ div {
 
 ul li {
  margin: 20px;
+ color:darkgreen;
 }
 
 ul.a {
