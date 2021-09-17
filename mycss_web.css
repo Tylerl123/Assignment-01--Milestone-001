@@ -48,11 +48,8 @@ p.small{
   
 }
 
-.custom_size {
-  
-  width: 20%;
-  height : 400px;
-  
+.text_color{
+  color:moss;
 }
 
 #font {
