@@ -38,7 +38,7 @@
   border-radius: 30px;
 }
 
-p.small{
+.small>p{
   padding: 15px;
   width: 1000px;
   height: 60px;
