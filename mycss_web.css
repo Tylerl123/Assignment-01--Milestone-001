@@ -5,7 +5,7 @@
     background-color: red;
     text-align: center;
     border-style: solid;
-    border-color : darkred;
+    border-color : darkblue;
     
 }
 
@@ -87,5 +87,9 @@ input {
   border-style: solid;
   border-color: navy;
   
+}
+
+span {
+ font-family: "Helvetica", sans-serif;
 }
 
